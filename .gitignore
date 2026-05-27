@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+.swift-module-cache/
+.DS_Store
+*.o
+*.a
+lame-*.tar.gz
+tmp
